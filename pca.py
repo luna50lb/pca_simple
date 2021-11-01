@@ -27,7 +27,7 @@ import scipy
 from sklearn import decomposition
 import pandas as pd
 
-
+import os 
 
 class PrincipalComponent():
 	def __init__(self):
